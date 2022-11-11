@@ -9,11 +9,16 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-navigation/native": "^6.0.13",
+    "@react-navigation/native-stack": "^6.9.1",
     "expo": "~47.0.3",
+    "expo-camera": "~13.0.0",
+    "expo-navigation-bar": "~2.0.1",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "react-native": "0.70.5",
+    "react-native-view-shot": "3.4.0",
     "react-native-web": "~0.18.9"
   },
   "devDependencies": {
